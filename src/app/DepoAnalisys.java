@@ -1,5 +1,5 @@
 package app;
-
+///ddd
 public class DepoAnalisys<T extends DepoBase> {
 	private T depo;
 	
